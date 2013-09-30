@@ -29,6 +29,17 @@
 \usepackage{booktabs} % Horizontal rules in tables
 \usepackage{fix-cm}	 % Custom font sizes - used for the initial letter in the document
 
+\usepackage{hyperref} %for hypertext links
+\hypersetup{
+    bookmarks=true,         % show bookmarks bar?
+    unicode=false,          % non-Latin characters in Acrobat’s bookmarks
+    colorlinks=true,       % false: boxed links; true: colored links
+    linkcolor=black,          % color of internal links (change box color with linkbordercolor)
+    citecolor=green,        % color of links to bibliography
+    filecolor=magenta,      % color of file links
+    urlcolor=blue           % color of external links
+}
+
 \usepackage{sectsty} % Enables custom section titles
 \allsectionsfont{\usefont{OT1}{phv}{b}{n}} % Change the font of all section commands
 
@@ -100,7 +111,7 @@ University of California Berkeley% Your institution
 %----------------------------------------------------------------------------------------
 
 \section*{SkillEx}
-SkillEx is a web platform that allows users to share and sell their skills to other users. Young men and women that have a particular strong interest and consequent skill desire to meet people with similar skills to practice together and share expertise. Also they might be interested to teach their skill in exchange of learning some other skill or in exchange of monetary compensation. Hence the platform would focus on the following three user stories:
+SkillEx is a web platform that allows users to share and sell their skills to other users. Young men and women that have a particular strong interest and consequent skills\footnote{For example a 'skill/expertise' could be skateboarding, skiing, juggling, pen tricks, photography, painting, etc...} desire to meet people with similar skills to practice together and share expertise. Also they might be interested to teach in exchange of learning some other skill or  of monetary compensation. Hence the platform would focus on the following three user stories:
 \begin{enumerate}
 \item As a passionate expert, I want to find and meet other passionate experts in the same field as mine to practice and form a community of people that share a passion.
 \item As an expert I would like to teach other people my expertise in exchange of learning another skill or monetary compensation.
@@ -110,36 +121,48 @@ The 'experts' will have a public profile, and will prove they have the skills th
 
 I could not find anyone doing anything similar online and I honestly how large is the target market. However, I love features (1) and (3), and would use this service. The MVP could start with (1) and develop in the rest once we have a good network of people. We need: video player (for the videos), location tracker (to automatically chase the location of the 'experts'), and some payment function.
 
+I heard the name SkillEx at startup weekend for a similar platform and really liked it.
+
 \section*{WeMakeIt}
-\lipsum[8-12]
+WeMakeIt is a web platform that allows freelance product designers to sell their products without having to worry about manufacturing. The freelance designers would upload their product on our site and we would asses the production cost, decide on a sale price, and how many units is profitable for us to sell (break even * 1.x). Then visitors of the site can choose the cool products they like and buy them. If we presell the amount of units we decided in advance within a certain time limit (say one month), we manufacture the product and ship it. Else, we reimburse the people that already payed for it. FInally, for each sold and shipped product, we would then send a large share of the profit (say 70\%) to the product designers and keep the rest. In a way, it would feel like Kickstarter, but we would take care of the production overhead. We could start by printing t-shirts, and search for attractive product categories. The MVP could focus on the following user stories:
+\begin{enumerate}
+\item As a college student with an idea for some cool t-shirt and a skill in adobe illustrator or alike, I want to sell the t-shirt I designed, because I would not mind some extra cash and I would find pride in seeing students with my t-shirt walking around campus.
+\item As a man/woman looking for something original, I am looking to buy some  products that are close to unique (not many units sold), because I want to differentiate myself from the crowd I have something that you would not usually find. 
+\end{enumerate}
+We would need to find a product category for which we could easily delegate the manufacturing, and the marginal cost for manufacturing the products would be low. The best I can think of right now is t-shirts.
 
-\section*{StreetWorkout}
-\lipsum[1-5]
+I have heard this idea from a business guy a couple of weeks ago and unfortunately I found a site that is doing this already, \href{http://www.unire.us/}{unire}. Most likely the site is from the guy that told me about the idea. However, I believe we could do it much better than the way he is doing it right now.
 
-\section*{Unplugged}
-\lipsum[2-7]
 
-\section*{NeverIdle}
-\lipsum[5]
 
-\section*{Bonus: PinTweets}
-\lipsum[3-9]
+%\section*{StreetWorkout}
+%\lipsum[1-5]
+%
+%\section*{Unplugged}
+%\lipsum[2-7]
+%
+%\section*{NeverIdle}
+%\lipsum[5]
+
+
 
 
 %----------------------------------------------------------------------------------------
 %	REFERENCE LIST
 %----------------------------------------------------------------------------------------
 
-\begin{thebibliography}{99} % Bibliography - this is intentionally simple in this template
-
-\bibitem[Figueredo and Wolf, 2009]{Figueredo:2009dg}
-Figueredo, A.~J. and Wolf, P. S.~A. (2009).
-\newblock Assortative pairing and life history strategy - a cross-cultural
-  study.
-\newblock {\em Human Nature}, 20:317--330.
- 
-\end{thebibliography}
+%\begin{thebibliography}{99} % Bibliography - this is intentionally simple in this template
+%
+%\bibitem[Figueredo and Wolf, 2009]{Figueredo:2009dg}
+%Figueredo, A.~J. and Wolf, P. S.~A. (2009).
+%\newblock Assortative pairing and life history strategy - a cross-cultural
+%  study.
+%\newblock {\em Human Nature}, 20:317--330.
+% 
+%\end{thebibliography}
 
 %----------------------------------------------------------------------------------------
 
 \end{document}
+
+
