@@ -2,7 +2,16 @@ Ideas:
 
 1.  Dining with locals
 
-The concept is that people who are traveling can eat a home cooked meal in the home of locals.  The business model would be similar to airbnb with an open marketplace where locals and travelers create profiles.  The travelers can search through the profiles for the local they are interested in, and the locals can either accept or deny the request of the traveler to eat dinner at their home.  I like this idea because, like airbnb, it fulfills a need.  When someone travels they have to find places to eat, just like they have to find places to sleep.  I think this "must have" situation is one major reason why airbnb is sucessful.  The traveler pays for the meal through the website, and we take a fee. This is a relatively new idea so there is only a small amount of compitition.  The competition also personally verifies each local cook, which provides for a "cleaner" marketplace however hurts their scalability.  Perhaps a better idea is to let the marketplace weed out the bad profiles through the review system. 
+The concept is that people who are traveling can eat a home cooked meal in the home of locals.  The business
+model would be similar to airbnb with an open marketplace where locals and travelers create profiles.  The 
+travelers can search through the profiles for the local they are interested in, and the locals can either 
+accept or deny the request of the traveler to eat dinner at their home.  I like this idea because, like airbnb,
+it fulfills a need.  When someone travels they have to find places to eat, just like they have to find places 
+to sleep.  I think this "must have" situation is one major reason why airbnb is sucessful.  The traveler pays 
+for the meal through the website, and we take a fee. This is a relatively new idea so there is only a small 
+amount of compitition.  The competition also personally verifies each local cook, which provides for a 
+"cleaner" marketplace however hurts their scalability.  Perhaps a better idea is to let the marketplace weed 
+out the bad profiles through the review system. 
 
     Competition:  1.  Homefood.it - only focuses on Italy
                   2.  EatWith - founded in 2012.  Still expanding - only a few profiles for the US
@@ -12,21 +21,47 @@ The concept is that people who are traveling can eat a home cooked meal in the h
 
 2.  Computer resource pooling
 
-This idea is similar to Arturo's but I will include it anyway since I really like the concept, and I've been playing with this idea in my mind for a while. Essentially people can sign up to have a portion of their computer be added to a pool of resources and they would receive compensation for when their resources are used.  Another person can rent hardware resources for his/her needs. Everything would happen via the internet, so I didn't consider the need for people to be within a close proximity, however I can see the benefit of lower latency by ensuring people are close to you.  Also I was just thinking about a hard-set amount of resources that the individual would agree to put up for rent, but I like the idea of using idle resources.  There doesn't seem to be a company doing something like this already.
+This idea is similar to Arturo's but I will include it anyway since I really like the concept, and I've been 
+playing with this idea in my mind for a while. Essentially people can sign up to have a portion of their 
+computer be added to a pool of resources and they would receive compensation for when their resources are used. 
+ Another person can rent hardware resources for his/her needs. Everything would happen via the internet, so I 
+didn't consider the need for people to be within a close proximity, however I can see the benefit of lower 
+latency by ensuring people are close to you.  Also I was just thinking about a hard-set amount of resources 
+that the individual would agree to put up for rent, but I like the idea of using idle resources.  There doesn't
+seem to be a company doing something like this already.
 
 
 
 3. Bill splitting
 
-A website that helps people each pay a portion of a bill.  There are some apps out right now that do bill splitting, but they all they do is keep track of who owes who.  None of them that I've found allow for each person to actually pay their portion of the bill directly to the bill collector.  As an example, say 3 roommates need to split the electricity bill.  With the current apps they can only divide up the bill and essentially keep a tally of who owes who, but only one person actually pays the bill and then he/she must go through the annoying process of ensuring the other people actually give him/her what the app says they owe.  Instead of this, I like the idea of a website that collects the amount owed from each person and then sends the payment to the bill collector.  This means that the bill cannot be payed until each person actually pays his/her share, and once they do pay they never have to worry about collecting funds from their other roommates.  I'll leave the competition part blank because I think this is a different service than the current bill splitting apps are providing.
+A website that helps people each pay a portion of a bill.  There are some apps out right now that do bill 
+splitting, but they all they do is keep track of who owes who.  None of them that I've found allow for each 
+person to actually pay their portion of the bill directly to the bill collector.  As an example, say 3 
+roommates need to split the electricity bill.  With the current apps they can only divide up the bill and 
+essentially keep a tally of who owes who, but only one person actually pays the bill and then he/she must 
+go through the annoying process of ensuring the other people actually give him/her what the app says they owe. 
+Instead of this, I like the idea of a website that collects the amount owed from each person and then sends the
+payment to the bill collector.  This means that the bill cannot be payed until each person actually pays his/her 
+share, and once they do pay they never have to worry about collecting funds from their other roommates.
+I'll leave the competition part blank because I think this is a different service than the current bill 
+splitting apps are providing.
 
 
 
 4.  Recipe suggestions
 
-A website that provides a service that maps ingredients to recipes.  You plug in the ingredients you have on hand and it tells you what you can make with those ingredients.  I often have random ingredients and don't know what to make with them, so something like this would be useful for my life.  There are a few websites like this now, but they don't seem very professional and they only let you pick from a small list of ingredients.  Also, they only give results for recipes they have hosted on their site.  I think a better, and of course harder, implimentation would be to allow the user to enter any ingredient and to return results from the plethora of recipes that exist on recipe websites.  As far as revenue goes, it could be a subscription service.  If it was cheap enough, I'd pay for it because it saves me considerable time trying to figure out what I can make with what I have.  It also would allow you to find try out new and interesting recipes.
+A website that provides a service that maps ingredients to recipes.  You plug in the ingredients you have on 
+hand and it tells you what you can make with those ingredients.  I often have random ingredients and don't know
+what to make with them, so something like this would be useful for my life.  There are a few websites like this
+now, but they don't seem very professional and they only let you pick from a small list of ingredients.  Also, 
+they only give results for recipes they have hosted on their site.  I think a better, and of course harder, 
+implimentation would be to allow the user to enter any ingredient and to return results from the plethora of 
+recipes that exist on recipe websites.  As far as revenue goes, it could be a subscription service.  If it was 
+cheap enough, I'd pay for it because it saves me considerable time trying to figure out what I can make with 
+what I have.  It also would allow you to find try out new and interesting recipes.
 
-    competition: 1. myfridgefood - it just doesn't work very well.  Poor implimentation.  Only lets you pick from a small list of ingredients
+    competition: 1. myfridgefood - it just doesn't work very well.  Poor implimentation.  Only lets you pick 
+                    from a small list of ingredients
                  2. recipematcher - same story, doesn't function well.  
                  3. recipekey - again, only lets you pick from a small list.
 
@@ -34,4 +69,12 @@ A website that provides a service that maps ingredients to recipes.  You plug in
 
 5.  Freelance marketplace
 
-There are many websites that are a marketplace for freelancers, but it seems that almost all focus on specific categories or groups.  Some are more general purpose, but even still you can find examples of services they don't offer, and none seem to dominate the market.  I feel like no one has really nailed the general purpose freelance marketplace.  If you want to buy something online, the first thought that comes to most peoples minds is amazon.  Amazon is the leader of online products.  Who is the leader of online services? If you need a service that can be rendered over the internet there is no one-stop-shop that seems to have a hold on the market.  I think its worth thinking about why this is the case.  Perhaps this idea is too overwhelming for what we're trying to do, and I don't have it particularly well fleshed-out, but I thought I'd throw it out there anyway.
+There are many websites that are a marketplace for freelancers, but it seems that almost all focus on specific 
+categories or groups.  Some are more general purpose, but even still you can find examples of services they 
+don't offer, and none seem to dominate the market.  I feel like no one has really nailed the general purpose 
+freelance marketplace.  If you want to buy something online, the first thought that comes to most peoples minds
+is amazon.  Amazon is the leader of online products.  Who is the leader of online services? If you need a 
+service that can be rendered over the internet there is no one-stop-shop that seems to have a hold on the 
+market.  I think its worth thinking about why this is the case.  Perhaps this idea is too overwhelming for what
+we're trying to do, and I don't have it particularly well fleshed-out, but I thought I'd throw it out there 
+anyway.
